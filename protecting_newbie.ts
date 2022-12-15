@@ -58,7 +58,7 @@ command.register("뉴비삭제", "뉴비 삭제를 합니다.").overload((p, o, 
 }, {});
 
 
-command.register("뉴비플러그인", "뉴비 플러그인 계발자를 알려줍니다.").overload((p, or, output) => {
+command.register("뉴비플러그인", "뉴비 플러그인 제작자를 알려줍니다.").overload((p, or, output) => {
     const ni = or.getEntity()?.getNetworkIdentifier()!;
     const actor = ni.getActor()!;
     const username = actor.getName();
