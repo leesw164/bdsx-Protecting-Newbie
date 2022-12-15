@@ -12,7 +12,7 @@
 4.커맨드를 설치하고 커맨드안에 명령어자리에 /execute as @a[scores={newm=..뉴비보호시간(분) -1}] run tag @s add new 를 적으시고  
 커맨드 세팅을 반복 무조건부 항상사용 해주세요.   
 5.커맨드를 설치하고 커맨드안에 명령어자리에 /scoreboard players add @a[tag=new] new 1 를 적어주시고 커맨드 세팅을 반복 무조건부 항상사용 해주세요.  
-6분터끝까지는 커맨드를 각번호마다 설치하고 체인 조건부 항사사용 으로 세팅해주세요 (주의 5번의 커맨드 화살표가 가르키는곳이 똑같아야합니다)  
+6분터끝까지는 커맨드를 각번호마다 설치하고 체인 조건부 항사사용 으로 세팅해주세요. (주의 5번의 커맨드 화살표가 가르키는곳이 똑같아야합니다)  
 6.커맨드안에 명령어자리에/execute as @a[scores={new=60}] run scoreboard players add @s newm 1 를 적어주세요.  
 7.커맨드안에 명령어자리에/execute as @a[scores={new=60}] run scoreboard players set @s new 0 를 적어주세요.  
 8.커맨드안에 명령어자리에/execute as @a[scores={newm=뉴비보호시간(분)..}] run tag @s remove new 를 적어주세요.  
