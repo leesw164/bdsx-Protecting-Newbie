@@ -1,6 +1,6 @@
 # bdsx-Protecting-Newbie
 
-플러그인 사용전에 세팅하실게 있습니다.                                                                                 
+플러그인을 사용하기전에 세팅하실게 있습니다.                                                                                 
 먼저 뉴비보호사용할 서버에 접속하시고                               
 1.마크채팅에 /give @s commandblock 를 치고 엔터해주세요.                                                 
 2.마크채팅에 /scoreboard objectives add new dummy 를 치고 엔터해주세요                              
